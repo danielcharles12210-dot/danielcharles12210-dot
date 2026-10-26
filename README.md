@@ -1,48 +1,208 @@
-<h1 align="center">Daniel Charles C J</h1>
+<div align="center">
 
-<h3 align="center">Mechatronics Engineering | Robotics | Embedded Systems | Automation</h3>
+<img src="assets/stark-banner.png" width="100%" alt="Daniel Charles C J - Robotics and Mechatronics Engineering Banner">
 
-<p align="center">
-  Developing intelligent machines through engineering, electronics, and software.
-</p>
+<br>
+
+<h1>⚡ DANIEL CHARLES C J</h1>
+
+### MECHATRONICS ENGINEERING | ROBOTICS | EMBEDDED SYSTEMS
+
+**THINK LIKE AN ENGINEER. BUILD LIKE AN INNOVATOR.**
+
+<a href="https://www.linkedin.com/in/daniel-charlescj">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/danielcharles12210-dot">
+  <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
 
 ---
 
-## About Me
+## 🔴 `01 // ENGINEER PROFILE`
 
-🎓 Mechatronics Engineering student at SNS College of Technology.
+```text
+NAME       : DANIEL CHARLES C J
+DISCIPLINE : MECHATRONICS ENGINEERING
+SPECIALTY  : ROBOTICS + ELECTRONICS + AUTOMATION
+OBJECTIVE  : BUILD INTELLIGENT ENGINEERING SYSTEMS
+STATUS     : LEARN | BUILD | EXPERIMENT | IMPROVE
+```
 
-🤖 Interested in robotics, autonomous mobile robots, and intelligent automation.
+I'm a Mechatronics Engineering student at SNS College of Technology, interested in integrating mechanical systems, electronics, embedded programming, and automation.
 
-⚡ Exploring embedded systems, microcontrollers, and sensor integration.
+My goal is to develop practical engineering solutions by combining hardware and software, experimenting with new technologies, and solving real-world problems.
 
-🛠️ Working with robot simulation, control systems, and hardware prototyping.
+---
 
-🚀 Building practical engineering projects and developing industry-ready skills.
+## 🔵 `02 // ENGINEERING DOMAINS`
 
-## Technical Interests
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Robotics and Autonomous Systems
-- Embedded C/C++ and Python
-- Arduino and ESP32
-- PID Control and Motor Control
+### 🤖 Robotics & Automation
+
+- Autonomous Mobile Robots
+- Robot Motion and Control
+- PID Control Systems
 - Sensors and Actuators
 - Industrial Automation
-- Robot Simulation
 
-## Projects
+</td>
+<td width="50%" valign="top">
 
-Projects will be documented here as they are published.
+### ⚡ Embedded Engineering
 
-## Current Goals
+- Arduino and ESP32
+- Embedded C/C++
+- Firmware Development
+- Sensor Integration
+- Hardware Interfacing
 
-- Develop autonomous robotics projects.
-- Improve embedded systems programming.
-- Explore robot navigation and control.
-- Build a strong engineering portfolio.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 Power Electronics
+
+- DC-DC Converters
+- Motor Drives
+- Power Conversion
+- Switching Circuits
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Circuit & PCB Design
+
+- Analog and Digital Circuits
+- Electronic Circuit Design
+- PCB Layout and Prototyping
+- Circuit Testing and Debugging
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <b>Engineering ideas into working systems.</b>
+## 🟢 `03 // TECHNOLOGY STACK`
+
+### Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
+
+### Embedded Systems
+
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
+</p>
+
+### Robotics & Simulation
+
+<p>
+<img src="https://img.shields.io/badge/CoppeliaSim-0078D4?style=for-the-badge">
+<img src="https://img.shields.io/badge/ROS-Learning-22314E?style=for-the-badge&logo=ros&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+## 🚀 `04 // FEATURED PROJECTS`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Autonomous Mobile Robot
+
+Developing an autonomous mobile robot integrating embedded computing, sensor systems, motor control, and navigation.
+
+**Focus**
+- Robot Navigation
+- Motor Control
+- Sensor Integration
+- Autonomous Systems
+
+</td>
+<td width="50%" valign="top">
+
+### 💪 EMG Gesture-Controlled System
+
+Developing a gesture-controlled system using EMG signals, ESP32 communication, and servo actuation.
+
+**Focus**
+- EMG Signal Processing
+- ESP32
+- Wireless Communication
+- Servo Control
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🦾 6-DOF Robotic Arm
+
+Exploring multi-axis robotic systems, motion control, and robotic arm applications.
+
+**Focus**
+- Robot Kinematics
+- Motion Control
+- Hardware Integration
+- Robotics
+
+</td>
+<td width="50%" valign="top">
+
+### 🔌 Circuit Design & Embedded Hardware
+
+Exploring electronic circuits and embedded hardware for robotics and automation applications.
+
+**Focus**
+- Circuit Design
+- PCB Prototyping
+- Microcontrollers
+- Hardware Testing
+
+</td>
+</tr>
+</table>
+
+---
+
+
+
+## 🎯 `06 // CURRENT MISSION`
+
+```text
+[01] Develop intelligent robotic systems
+[02] Improve embedded firmware engineering
+[03] Explore power electronics and motor drives
+[04] Design and prototype electronic circuits
+[05] Build practical automation solutions
+[06] Develop an industry-ready engineering portfolio
+```
+
+---
+
+<div align="center">
+
+### ⚡ DESIGN. BUILD. TEST. IMPROVE. REPEAT.
+
+**THINK LIKE AN ENGINEER. BUILD LIKE AN INNOVATOR.**
+
+<a href="https://www.linkedin.com/in/daniel-charlescj">
+  Connect with me on LinkedIn
+</a>
+
+</div>
