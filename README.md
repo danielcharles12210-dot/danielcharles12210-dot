@@ -1,208 +1,212 @@
 <div align="center">
 
-<img src="assets/stark-banner.png" width="100%" alt="Daniel Charles C J - Robotics and Mechatronics Engineering Banner">
+<img src="assets/dcj-profile.png" width="170" alt="Daniel Charles C J" style="border-radius:50%;">
 
-<br>
+# `DCJ` | DANIEL CHARLES C J
 
-<h1>⚡ DANIEL CHARLES C J</h1>
-
-### MECHATRONICS ENGINEERING | ROBOTICS | EMBEDDED SYSTEMS
+### MECHATRONICS ENGINEER · INVENTOR · SYSTEM BUILDER
 
 **THINK LIKE AN ENGINEER. BUILD LIKE AN INNOVATOR.**
 
+<img src="https://img.shields.io/badge/ROBOTICS-FF3D3D?style=for-the-badge&logo=robot&logoColor=white">
+<img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-00D4FF?style=for-the-badge&logo=espressif&logoColor=black">
+<img src="https://img.shields.io/badge/POWER_ELECTRONICS-FFD166?style=for-the-badge&logoColor=black">
+
+<br>
+
 <a href="https://www.linkedin.com/in/daniel-charlescj">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 <a href="https://github.com/danielcharles12210-dot">
-  <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/ENGINEERING_LAB-161B22?style=flat-square&logo=github&logoColor=white">
 </a>
 
 </div>
 
 ---
 
-## 🔴 `01 // ENGINEER PROFILE`
+<div align="center">
 
-```text
-NAME       : DANIEL CHARLES C J
-DISCIPLINE : MECHATRONICS ENGINEERING
-SPECIALTY  : ROBOTICS + ELECTRONICS + AUTOMATION
-OBJECTIVE  : BUILD INTELLIGENT ENGINEERING SYSTEMS
-STATUS     : LEARN | BUILD | EXPERIMENT | IMPROVE
-```
+`MECHANICS × ELECTRONICS × SOFTWARE = INTELLIGENT MACHINES`
 
-I'm a Mechatronics Engineering student at SNS College of Technology, interested in integrating mechanical systems, electronics, embedded programming, and automation.
+</div>
 
-My goal is to develop practical engineering solutions by combining hardware and software, experimenting with new technologies, and solving real-world problems.
+## `01 / WHO I AM`
 
----
+I'm Daniel Charles C J, a Mechatronics Engineering student at SNS College of Technology.
 
-## 🔵 `02 // ENGINEERING DOMAINS`
+I enjoy exploring unconventional ideas and turning them into practical engineering systems. My interests span the complete development process: understanding the mechanical design, developing electronic hardware, programming embedded controllers, and integrating everything into a working machine.
+
+I'm particularly interested in robotics, embedded engineering, power electronics, circuit design, and automation.
+
+**My approach:** Understand the problem. Design the system. Build the prototype. Test it. Improve it.
+
+## `02 / THE ENGINEERING LAB`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Robotics & Automation
+### 🔴 ROBOTICS & AUTOMATION
 
-- Autonomous Mobile Robots
-- Robot Motion and Control
-- PID Control Systems
-- Sensors and Actuators
-- Industrial Automation
+Building systems that sense, decide, and act.
+
+- Autonomous mobile robots
+- Robot motion and control
+- PID control
+- Sensors and actuators
+- Industrial automation
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Embedded Engineering
+### 🔵 EMBEDDED ENGINEERING
+
+Connecting software with the physical world.
 
 - Arduino and ESP32
 - Embedded C/C++
-- Firmware Development
-- Sensor Integration
-- Hardware Interfacing
+- Microcontroller interfacing
+- Firmware development
+- Wireless communication
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔌 Power Electronics
+### 🟡 POWER ELECTRONICS
 
-- DC-DC Converters
-- Motor Drives
-- Power Conversion
-- Switching Circuits
+Exploring the systems that deliver and control electrical power.
+
+- DC-DC converters
+- Motor drives
+- Power conversion
+- Switching circuits
 
 </td>
 <td width="50%" valign="top">
 
-### 🔧 Circuit & PCB Design
+### 🟢 CIRCUIT DESIGN
 
-- Analog and Digital Circuits
-- Electronic Circuit Design
-- PCB Layout and Prototyping
-- Circuit Testing and Debugging
+Turning electronic concepts into hardware.
+
+- Analog and digital circuits
+- Circuit analysis
+- PCB design
+- Hardware prototyping
+- Testing and debugging
 
 </td>
 </tr>
 </table>
 
----
+## `03 / PROJECT DEVELOPMENT BAY`
 
-## 🟢 `03 // TECHNOLOGY STACK`
-
-### Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</p>
-
-### Embedded Systems
-
-<p>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white">
-</p>
-
-### Robotics & Simulation
-
-<p>
-<img src="https://img.shields.io/badge/CoppeliaSim-0078D4?style=for-the-badge">
-<img src="https://img.shields.io/badge/ROS-Learning-22314E?style=for-the-badge&logo=ros&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-</p>
-
----
-
-## 🚀 `04 // FEATURED PROJECTS`
+These projects represent the engineering directions I'm exploring.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🤖 Autonomous Mobile Robot
+### 🤖 PROJECT 01 — AUTONOMOUS MOBILE ROBOT
 
-Developing an autonomous mobile robot integrating embedded computing, sensor systems, motor control, and navigation.
+**Mission:** Develop a mobile robot that combines sensing, computation, and motor control for autonomous movement.
 
-**Focus**
-- Robot Navigation
-- Motor Control
-- Sensor Integration
-- Autonomous Systems
+`ROBOTICS` `EMBEDDED SYSTEMS` `MOTOR CONTROL` `NAVIGATION`
 
-</td>
-<td width="50%" valign="top">
-
-### 💪 EMG Gesture-Controlled System
-
-Developing a gesture-controlled system using EMG signals, ESP32 communication, and servo actuation.
-
-**Focus**
-- EMG Signal Processing
-- ESP32
-- Wireless Communication
-- Servo Control
+My focus is on integrating hardware and software into a complete robotic platform, from sensor inputs to motion control.
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-### 🦾 6-DOF Robotic Arm
+### 💪 PROJECT 02 — EMG GESTURE-CONTROLLED SYSTEM
 
-Exploring multi-axis robotic systems, motion control, and robotic arm applications.
+**Mission:** Translate muscle activity into commands for a servo-controlled system.
 
-**Focus**
-- Robot Kinematics
-- Motion Control
-- Hardware Integration
-- Robotics
+`EMG SIGNALS` `ESP32` `SIGNAL PROCESSING` `WIRELESS CONTROL`
+
+This project explores the connection between biological signals and embedded control, with gesture recognition used to trigger physical movement.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 
-### 🔌 Circuit Design & Embedded Hardware
+### 🦾 PROJECT 03 — SIX-DEGREE-OF-FREEDOM ROBOTIC ARM
 
-Exploring electronic circuits and embedded hardware for robotics and automation applications.
+**Mission:** Explore multi-axis robotic manipulation and coordinated motion.
 
-**Focus**
-- Circuit Design
-- PCB Prototyping
-- Microcontrollers
-- Hardware Testing
+`ROBOTICS` `KINEMATICS` `MOTION CONTROL` `SYSTEM INTEGRATION`
+
+The goal is to understand how multiple controlled joints work together to position and move a robotic tool.
 
 </td>
 </tr>
 </table>
 
----
+*Project status and implementation details will be added as each project develops. Only completed and tested features will be described as finished.*
 
+## `04 / TECHNOLOGY WORKBENCH`
 
+### Programming
 
-## 🎯 `06 // CURRENT MISSION`
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
+</p>
+
+### Embedded Platforms
+
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white">
+</p>
+
+### Engineering Tools
+
+<p>
+<img src="https://img.shields.io/badge/CoppeliaSim-0078D4?style=flat-square">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</p>
+
+*This is a technology workbench, not a proficiency ranking. I'll add additional tools as I use them in documented projects.*
+
+## `05 / CURRENT OBJECTIVES`
 
 ```text
-[01] Develop intelligent robotic systems
-[02] Improve embedded firmware engineering
-[03] Explore power electronics and motor drives
-[04] Design and prototype electronic circuits
-[05] Build practical automation solutions
-[06] Develop an industry-ready engineering portfolio
+[01] Integrate mechanical, electrical, and software systems
+[02] Build reliable embedded control systems
+[03] Explore autonomous robot navigation
+[04] Improve circuit design and hardware debugging
+[05] Understand power conversion and motor drives
+[06] Turn engineering experiments into documented projects
 ```
+
+## `06 / GITHUB TELEMETRY`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=danielcharles12210-dot&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF3D3D&text_color=C9D1D9&include_all_commits=true" alt="GitHub statistics">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcharles12210-dot&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages">
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⚡ DESIGN. BUILD. TEST. IMPROVE. REPEAT.
+### THE DCJ ENGINEERING PRINCIPLE
 
-**THINK LIKE AN ENGINEER. BUILD LIKE AN INNOVATOR.**
+**DESIGN → BUILD → TEST → LEARN → REPEAT**
 
-<a href="https://www.linkedin.com/in/daniel-charlescj">
-  Connect with me on LinkedIn
-</a>
+*Building machines. Exploring ideas. Solving real problems.*
+
+<a href="https://www.linkedin.com/in/daniel-charlescj">LET'S CONNECT</a>
 
 </div>
