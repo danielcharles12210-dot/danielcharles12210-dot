@@ -187,19 +187,7 @@ The goal is to understand how multiple controlled joints work together to positi
 [06] Turn engineering experiments into documented projects
 ```
 
-## `06 / GITHUB TELEMETRY`
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=danielcharles12210-dot&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF3D3D&text_color=C9D1D9&include_all_commits=true" alt="GitHub statistics">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcharles12210-dot&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most used languages">
-
-</div>
-
----
-
-<div align="center">
 
 ### THE DCJ ENGINEERING PRINCIPLE
 
