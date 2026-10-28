@@ -2,16 +2,14 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:0B2545,70:007F9E,100:00E5FF&text=DANIEL%20CHARLES%20C%20J&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=MECHATRONICS%20%7C%20ROBOTICS%20%7C%20EMBEDDED%20SYSTEMS&descSize=14&descAlignY=58&animation=fadeIn" />
 
-### ENGINEER IN PROGRESS. INNOVATOR BY INSTINCT.
+### ENGINEER IN PROGRESS. BUILDER BY HABIT.
 
 *Connecting mechanics, electronics, and software to build intelligent machines.*
 
-![Robotics](https://img.shields.io/badge/ROBOTICS-00E5FF?style=for-the-badge&labelColor=080D1A)
-![Embedded Systems](https://img.shields.io/badge/EMBEDDED_SYSTEMS-00C853?style=for-the-badge&labelColor=080D1A)
-![Control Systems](https://img.shields.io/badge/CONTROL_SYSTEMS-FFC857?style=for-the-badge&labelColor=080D1A)
-![Electronics](https://img.shields.io/badge/ELECTRONICS-FF4B4B?style=for-the-badge&labelColor=080D1A)
-
 **DESIGN → BUILD → TEST → IMPROVE**
+
+[![Email](https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080D1A)](mailto:danielcharles12210@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080D1A)](https://www.linkedin.com/in/daniel-charlescj)
 
 </div>
 
@@ -19,107 +17,109 @@
 
 ### `01 // ABOUT ME`
 
-I'm **Daniel Charles C J**, a third-year Mechatronics Engineering student at **SNS College of Technology**.
+Third-year **Mechatronics Engineering** student at **SNS College of Technology** (Anna University), graduating 2028.
+I build robots end to end: firmware, motor drivers, sensors, power and control, and I debug them from the hardware up.
 
-I'm passionate about developing intelligent machines by integrating mechanical systems, electronics, embedded programming, and control engineering.
+🎯 **Looking for:** [internship type, e.g. embedded / robotics / automation] · [duration and start date] · [location or remote]
 
-- 🤖 Robotics and Autonomous Mobile Robots
-- 🔌 Embedded Systems — Arduino, ESP32, C/C++
-- 🎛️ Control Systems — PID, Feedback Control, Motor Control
-- ⚡ Electronics, Circuit Design, and Power Electronics
-- 🧪 Robotics Simulation and Hardware Prototyping
+- 🤖 Robotic arms, autonomous mobile robots and assistive devices
+- 🔌 Embedded systems: Arduino, Arduino Mega, ESP32 (C/C++)
+- 🎛️ PID control, tuning and reinforcement learning
+- 🏭 Industrial exposure through internships in 3D-printed prosthetics and manufacturing
 
-### `02 // FEATURED PROJECTS`
+---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### `02 // FLAGSHIP PROJECT`
 
-### 🤖 Autonomous Mobile Robot
+## 🦾 6-DOF Autonomous Robotic Arm
 
-Developing a mobile robotic platform integrating sensors, motor control, and autonomous navigation.
+| | |
+|---|---|
+| **Goal** | A 6-axis arm benchmarked against the open-source AR2/AR3 architecture, with a long-term aim of a commercially viable industrial arm |
+| **Built so far** | Dual-ESP32 I2C master/slave architecture, TB6600 stepper drivers, full GPIO mapping for six axes |
+| **Firmware** | AccelStepper trapezoidal acceleration, limit-switch homing, software travel limits |
+| **Debugged** | Stepper coil pairing and TB6600 current settings, using bottom-up incremental testing |
+| **Now working on** | PC ↔ Arduino Mega 2560 serial communication for a single-controller variant |
+| **Next** | Inverse kinematics (DH parameters), ROS2, ISO 10218 safety |
+| **Status** | 🟡 In progress |
+| **Evidence** | [video of axes moving] · [wiring diagram] · [repo link] |
 
-`ROBOTICS` `CONTROL SYSTEMS` `NAVIGATION`
+`ESP32` `ARDUINO MEGA` `TB6600` `ACCELSTEPPER` `I2C`
 
-</td>
-<td width="50%" valign="top">
+> **An engineering decision:** I concluded that open-loop steppers aren't enough for a production-grade industrial arm and that closed-loop servos are the right path, so this build is how I learn the full stack before choosing that hardware.
 
-### 💪 EMG Gesture Control
+---
 
-Exploring muscle-signal processing to recognize gestures and control a servo-based system.
+### `03 // MORE PROJECTS`
 
-`ESP32` `EMG` `SIGNAL PROCESSING`
+| Project | What I built | Status | Proof |
+|---|---|---|---|
+| **Autonomous Line Follower** (e-Yantra) | 5-sensor reflective array, tuned PID, Q-learning, CoppeliaSim + Python; S-curves, zig-zags, dashed lines | [simulation / hardware] | [repo / video] |
+| **Autonomous Mobile Robot** | 2 geared DC motors, 10 A driver, LiFePO4 power system, fuse → E-stop → main switch chain | 🟡 In design and build | [repo / photos] |
+| **Prosthetic Hand** | Servo-driven hand with sensors and 3D-printed fingers, multiple grips, as an affordable assistive concept | 🟢 Demonstrated | [photos / video] |
+| **Crop Drop Bot** | Autonomous delivery robot with sensor-based navigation | 🟢 Demonstrated | [video] |
+| **Maze Solver** | IR-sensor robot that navigates a maze to its destination | 🟢 Demonstrated | [video] |
+| **Certify Secure** | Python system for managing and verifying information, with authentication and testing logic | 🟢 Working | [repo] |
+| **EMG Gesture Control** | ESP32 muscle-signal processing driving a servo | 🟠 Exploratory | [repo] |
 
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+🟢 Demonstrated or tested · 🟡 In progress · 🟠 Exploratory
 
-### 🦾 Six-DOF Robotic Arm
+---
 
-Exploring robotic kinematics, coordinated joint movement, and motion control.
+### `04 // TECH STACK`
 
-`KINEMATICS` `ROBOTICS` `MOTION CONTROL`
+**💻 Languages**
 
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,matlab" />
 
-### `03 // TECHNICAL SKILLS`
+**🔌 Embedded and hardware**
 
-**💻 Programming**
+<img src="https://skillicons.dev/icons?i=arduino" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/TB6600-Stepper_Drivers-555555?style=for-the-badge" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+**🧪 Tools and simulation**
 
-**🔌 Embedded Systems**
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,blender" />
+<img src="https://img.shields.io/badge/CoppeliaSim-1687FF?style=for-the-badge" />
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+**📚 Learning now**
 
-**🤖 Robotics & Automation**
+<img src="https://skillicons.dev/icons?i=ros" />
+Inverse kinematics (DH parameters) · ISO 10218 robot safety
 
-Autonomous Mobile Robots · Robotic Arms · Sensors · Actuators · Motor Control
+| Skill | Where I used it |
+|---|---|
+| Embedded C/C++ | Arm firmware, prosthetic hand, Crop Drop Bot, Maze Solver |
+| Stepper and DC motor drivers | TB6600 arm, AMR drivetrain, delivery and maze robots |
+| I2C multi-controller design | Dual-ESP32 arm architecture |
+| PID tuning and Q-learning | Line follower |
+| Sensor integration | Line follower, Maze Solver, prosthetic hand |
+| Python | Certify Secure, line follower control |
 
-**🎛️ Control Systems**
+---
 
-PID Control · Feedback Control · Motor Speed Control · System Modelling
+### `05 // EXPERIENCE`
 
-**⚡ Electronics & Power Electronics**
+- 🛠️ **Intern, BTouch Technologies:** worked on the design and development of 3D-printed prosthetic devices
+- 🏭 **Intern, Tony Engineering:** hands-on industrial engineering exposure
+- ⚙️ **Industrial Trainee, Kiwi Cottonspin Mill (3 weeks):** plastic injection moulding processes
 
-Circuit Design · Sensor Interfacing · Motor Drivers · DC–DC Converters
+### `06 // ACHIEVEMENTS`
 
-**🧪 Simulation & Development Tools**
+- 🏆 **Winner, Clemovate Hackathon** · [what you built]
+- 🇮🇳 **Participant, Smart India Hackathon (SIH) 2025** · [problem statement and your role]
+- 🚁 **Yugam Drone Hunt** · [what you did]
+- 🥤 **Astranova Safe Sips** · [what you did]
+- 🧑‍🤝‍🧑 **Executive Member, TRONEXUS** (Mechatronics Engineering Association, SNS College of Technology)
+- 🎓 Microsoft Azure AI Fundamentals · IBM, HP and BCG job simulations (Forage)
+- 📄 **Research:** Water Quality Monitoring System · [your role, status, link only if published]
 
-![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-1687FF?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### `04 // RESEARCH`
-
-📄 **Water Quality Monitoring System**
-
-Research focused on water-quality monitoring. Add your paper's official publication link and exact publication details here.
-
-### `05 // CURRENT MISSION`
-
-- Build practical robotics and embedded systems.
-- Improve control engineering and motor-control techniques.
-- Develop reliable hardware–software integration.
-- Strengthen circuit design and power electronics knowledge.
-- Document engineering projects with measurable results.
+🗣️ English · Tamil · Malayalam · German (basic) · French (basic)
 
 ---
 
 <div align="center">
-
-<a href="https://github.com/danielcharles12210-dot">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080D1A" />
-</a>
-
-<br/><br/>
 
 **BUILD WITH PURPOSE. ENGINEER WITH EVIDENCE.**
 
