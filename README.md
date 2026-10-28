@@ -1,58 +1,106 @@
 <div align="center">
 
-# ⚙️ DANIEL CHARLES C J
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,35:0B2545,70:007F9E,100:00E5FF&text=DANIEL%20CHARLES%20C%20J&fontColor=FFFFFF&fontSize=42&fontAlignY=38&desc=MECHATRONICS%20%2F%20ROBOTICS%20%2F%20EMBEDDED%20SYSTEMS&descSize=14&descAlignY=58&animation=fadeIn" />
 
-### MECHATRONICS ENGINEER | ROBOTICS | EMBEDDED SYSTEMS
+<br/>
 
-*Think Like an Engineer. Build Like an Innovator.*
+### ENGINEER IN PROGRESS. INNOVATOR BY INSTINCT.
 
-![Robotics](https://img.shields.io/badge/Robotics-FF4B4B?style=flat-square)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00C7E8?style=flat-square)
-![Power Electronics](https://img.shields.io/badge/Power_Electronics-FFC857?style=flat-square)
-![Circuit Design](https://img.shields.io/badge/Circuit_Design-39D98A?style=flat-square)
+*Connecting mechanics, electronics, and code to build intelligent machines.*
+
+![Robotics](https://img.shields.io/badge/ROBOTICS-00E5FF?style=for-the-badge&labelColor=080D1A)
+![Embedded Systems](https://img.shields.io/badge/EMBEDDED_SYSTEMS-00C853?style=for-the-badge&labelColor=080D1A)
+![Electronics](https://img.shields.io/badge/ELECTRONICS-FFC857?style=for-the-badge&labelColor=080D1A)
+
+**DESIGN → BUILD → TEST → IMPROVE**
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### `01 // ABOUT ME`
 
-I'm a third-year Mechatronics Engineering student at SNS College of Technology, passionate about building intelligent machines by integrating mechanics, electronics, and software.
+I'm **Daniel Charles C J**, a third-year Mechatronics Engineering student at **SNS College of Technology**.
 
 - 🤖 Robotics & Autonomous Mobile Robots
 - 🔌 Embedded Systems — Arduino, ESP32, C/C++
 - ⚡ Power Electronics & Circuit Design
-- 🛠️ Control Systems & Industrial Automation
+- 🧠 Sensors, Control Systems & Automation
 
-### 🚀 Featured Projects
+### `02 // FEATURED PROJECTS`
 
-| Project | Focus |
-|---|---|
-| 🤖 Autonomous Mobile Robot | Navigation & Motor Control |
-| 💪 EMG Gesture Control | Signal Processing & ESP32 |
-| 🦾 6-DOF Robotic Arm | Kinematics & Motion Control |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧰 Tech Stack
+### 🤖 Autonomous Mobile Robot
 
-**Languages:** Python · C · C++
+Developing a mobile robotic platform integrating sensing, motor control, and navigation.
 
-**Hardware:** Arduino · ESP32
+`ROBOTICS` `CONTROL` `NAVIGATION`
 
-**Tools:** Git · GitHub · CoppeliaSim
+</td>
+<td width="50%" valign="top">
 
-### 🎯 Current Focus
+### 💪 EMG Gesture Control
 
-- Building practical robotics projects
-- Improving embedded programming and control systems
-- Exploring autonomous navigation and circuit design
+Exploring muscle-signal processing for gesture recognition and servo actuation.
 
-### 📫 Connect With Me
+`ESP32` `EMG` `SIGNAL PROCESSING`
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/danielcharles12210-dot)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🦾 Six-DOF Robotic Arm
+
+Exploring robot kinematics, coordinated joint movement, and motion control.
+
+`KINEMATICS` `ROBOTICS` `MOTION CONTROL`
+
+</td>
+</tr>
+</table>
+
+### `03 // TECH STACK`
 
 <div align="center">
 
-**DESIGN → BUILD → TEST → IMPROVE**
+<img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,git,github,linux,vscode&theme=dark" />
+
+<br/><br/>
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-1687FF?style=flat-square)
+
+</div>
+
+### `04 // RESEARCH`
+
+📄 **Water Quality Monitoring System**
+
+Research project focused on water-quality monitoring. Add your paper's official publication link here.
+
+### `05 // CURRENT MISSION`
+
+- Build practical robotics and embedded systems.
+- Improve control engineering and circuit design.
+- Develop reliable hardware–software integration.
+- Document engineering projects with measurable results.
+
+---
+
+<div align="center">
+
+<a href="https://github.com/danielcharles12210-dot">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00E5FF?style=for-the-badge&logo=github&logoColor=white&labelColor=080D1A" />
+</a>
+
+<br/><br/>
+
+**BUILD WITH PURPOSE. ENGINEER WITH EVIDENCE.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00E5FF,50:007F9E,100:050816" />
 
 </div>
