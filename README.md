@@ -6,12 +6,15 @@
 
 *Connecting mechanics, electronics, and software to build intelligent machines.*
 
-**DESIGN → BUILD → TEST → IMPROVE**
+
 
 [![Email](https://img.shields.io/badge/EMAIL-00E5FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080D1A)](mailto:danielcharles12210@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=080D1A)](https://www.linkedin.com/in/daniel-charlescj)
 
 </div>
+<a href="https://github.com/danielcharles12210-dot">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=00E5FF&center=true&vCenter=true&width=720&lines=Mechatronics+student;I+debug+from+the+hardware+up;Robots+%7C+Embedded+Systems+%7C+Control;Design+%3E+Build+%3E+Test+%3E+Improve" alt="typing intro" />
+</a>
 
 ---
 
