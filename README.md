@@ -115,7 +115,7 @@ Inverse kinematics (DH parameters) · ISO 10218 robot safety
 - 🎓 Microsoft Azure AI Fundamentals · IBM, HP and BCG job simulations (Forage)
 - 📄 **Research:** Water Quality Monitoring System · [your role, status, link only if published]
 
-🗣️ English · Tamil · Malayalam · German (basic) · French (basic)
+🗣️ English · Tamil · German (basic) · French (basic)
 
 ---
 
