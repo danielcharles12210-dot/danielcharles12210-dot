@@ -4,98 +4,101 @@
 
 ### ENGINEER IN PROGRESS. BUILDER BY HABIT.
 
-*I build robots end to end, from firmware and motor drivers to control and power, and I debug them from the hardware up.*
+*I build robots end to end and debug them from the hardware up.*
 
 <a href="https://github.com/danielcharles12210-dot">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=FFC857&center=true&vCenter=true&width=760&lines=Open+to+Robotics+%7C+Embedded+%7C+Automation+internships;Design+%3E+Build+%3E+Test+%3E+Improve;I+debug+from+the+hardware+up;Claims+backed+by+evidence%2C+not+adjectives" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=FFC857&center=true&vCenter=true&width=760&lines=Robotics+%7C+Embedded+%7C+Automation;Building+a+6-DOF+robotic+arm+from+scratch;Design+%3E+Build+%3E+Test+%3E+Improve;Open+to+internships+and+placements" alt="typing intro" />
 </a>
 
 <br/>
 
+![Class](https://img.shields.io/badge/CLASS_OF-2028-00E5FF?style=for-the-badge&labelColor=050816)
+![CGPA](https://img.shields.io/badge/CGPA-8.23-FFC857?style=for-the-badge&labelColor=050816)
+![Status](https://img.shields.io/badge/OPEN_TO-INTERNSHIPS_%26_PLACEMENTS-00E5FF?style=for-the-badge&labelColor=050816)
+
 [![Email](https://img.shields.io/badge/EMAIL-FFC857?style=for-the-badge&logo=gmail&logoColor=050816&labelColor=050816)](mailto:danielcharles12210@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00E5FF?style=for-the-badge&logo=linkedin&logoColor=050816&labelColor=050816)](https://www.linkedin.com/in/daniel-charlescj)
-[![GitHub](https://img.shields.io/badge/GITHUB-FFFFFF?style=for-the-badge&logo=github&logoColor=050816&labelColor=050816)](https://github.com/danielcharles12210-dot)
+
+<!-- ADD YOUR RESUME BUTTON HERE once you have a link:
+[![Resume](https://img.shields.io/badge/RESUME-FFFFFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=050816&labelColor=050816)](PASTE_RESUME_LINK_HERE)
+-->
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:FFC857" width="100%" />
 
-### `00 // RECRUITER QUICK SCAN`
+### `01 // AT A GLANCE`
 
-- 🎓 **B.E. Mechatronics Engineering**, SNS College of Technology (Anna University), graduating **2028**
-- 🎯 **Open to:** internships in robotics, embedded systems and industrial automation
-- 🦾 **Flagship build:** 6-DOF autonomous robotic arm, designed and programmed from scratch
-- 🏭 **Industry exposure:** 3 internships and trainings across 3D-printed prosthetics and manufacturing
-- 🏆 **Proof of execution:** Clemovate Hackathon winner, Smart India Hackathon 2025 participant
-- 📬 **Fastest way to reach me:** [danielcharles12210@gmail.com](mailto:danielcharles12210@gmail.com)
+- 🎓 B.E. Mechatronics, SNS College of Technology (Anna University), graduating **2028**
+- 🎯 Looking for internships and placements in **robotics, embedded systems and industrial automation**
+- 🏆 **Clemovate Hackathon winner** · Smart India Hackathon 2025 participant
+- 🏭 3 internships and trainings across prosthetics and manufacturing
+- 🧑‍🤝‍🧑 Secretary, Robotics Club
+- 📍 Tiruppur, Tamil Nadu, India
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:FFC857" width="100%" />
 
-### `01 // ABOUT ME`
+### `02 // CURRENTLY`
 
-I am a third-year Mechatronics student who builds working hardware instead of only reading about it. My projects cover the full stack of a machine: mechanical layout, motor drivers, sensors, firmware, control theory and power safety.
+- 🔭 **Building:** a 6-DOF robotic arm, an autonomous mobile robot and a closed-loop PID motor controller
+- 🌱 **Learning:** inverse kinematics (DH parameters), ROS2 and ISO 10218 robot safety
+- 💬 **Ask me about:** stepper drivers, PID tuning, multi-controller I2C design and power safety
 
-- 🤖 Robotic arms, autonomous mobile robots and assistive devices
-- 🔌 Embedded systems on Arduino, Arduino Mega and ESP32, written in C/C++
-- 🎛️ PID control, tuning and reinforcement learning
-- 🏭 Industrial exposure through internships in 3D-printed prosthetics and manufacturing
-- 🧠 My habit: test one subsystem at a time, prove it works, then integrate
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:FFC857" width="100%" />
 
----
+### `03 // WHAT I BRING TO A TEAM`
 
-### `02 // FLAGSHIP PROJECT`
+- 🔌 **Hardware bring-up:** power, drivers and wiring verified before I trust any code
+- 💾 **Firmware:** C/C++ on ESP32 and Arduino, including multi-controller I2C designs
+- 🎛️ **Control:** PID design and tuning judged on measured response, not guesses
+- 🛡️ **Safety-minded design:** fuses, emergency stops and travel limits built in from the start
+- 📝 **Honest documentation:** GPIO maps, clear status labels, results published only after testing
+- 🧑‍🤝‍🧑 **Leadership:** Secretary of the Robotics Club
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:FFC857" width="100%" />
+
+### `04 // FLAGSHIP PROJECT`
 
 ## 🦾 6-DOF Autonomous Robotic Arm
 
-- 🎯 **Goal:** a 6-axis arm benchmarked against the open-source AR2/AR3 architecture, with a long-term aim of a commercially viable industrial arm
-- 🧱 **Built so far:** dual-ESP32 I2C master/slave architecture, TB6600 stepper drivers and a full GPIO map for all six axes
-- 💾 **Firmware:** AccelStepper trapezoidal acceleration, limit-switch homing and software travel limits
-- 🔍 **Debugged:** stepper coil pairing and TB6600 current settings, using bottom-up incremental testing
-- 🔄 **Now working on:** PC ↔ Arduino Mega 2560 serial communication for a single-controller variant
-- 🚀 **Next:** inverse kinematics (DH parameters), ROS2 and ISO 10218 safety
-- 🟡 **Status:** in progress
-- 📎 **Evidence:** [video of axes moving] · [wiring diagram] · [repo link]
+- 🎯 Benchmarked against the open-source AR2/AR3 architecture, aiming at a commercially viable industrial arm
+- 🧱 Dual-ESP32 I2C master/slave design, TB6600 stepper drivers, full six-axis GPIO map
+- 💾 AccelStepper firmware with trapezoidal acceleration, limit-switch homing and travel limits
+- 🔍 Debugged coil pairing and driver current settings with bottom-up testing
+- 🔄 Now: PC ↔ Arduino Mega 2560 serial control for a single-controller variant
+- 🚀 Next: inverse kinematics (DH), ROS2, ISO 10218 safety
+- 🟡 Status: in progress
+
+<!-- ADD HERE when ready: demo video link, wiring diagram image, repo link -->
 
 `ESP32` `ARDUINO MEGA` `TB6600` `ACCELSTEPPER` `I2C`
 
-> **An engineering decision:** I concluded that open-loop steppers aren't enough for a production-grade industrial arm and that closed-loop servos are the right path, so this build is how I learn the full stack before choosing that hardware.
+> **Engineering decision:** open-loop steppers aren't enough for a production-grade arm, so closed-loop servos are the right path. This build is how I learn the full stack first.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:FFC857" width="100%" />
 
-### `03 // MORE PROJECTS`
+### `05 // MORE PROJECTS`
 
+🟢 Demonstrated · 🟡 In progress · 🟠 Exploratory
 
-**🏁 Autonomous Line Follower (e-Yantra)** 
-- 5-sensor reflective array with tuned PID (Kp, Ki, Kd) for stable, fast line tracking
-- Q-learning for intelligent action selection, developed in CoppeliaSim + Python
-- Tested on S-curves, zig-zag paths and dashed lines
-- Worked through drifting, sharp turns and speed optimisation
+- 🏁 **Line Follower (e-Yantra)** 🟡: 5-sensor array, tuned PID, Q-learning in CoppeliaSim + Python
+- 🚚 **Autonomous Mobile Robot** 🟡: geared DC drivetrain, LiFePO4 power, fuse → E-stop → switch safety chain
+- 🎛️ **PID Motor Speed Control** 🟡: encoder feedback holding a target RPM, results published only after testing
+- 🖐️ **Prosthetic Hand** 🟢: servo-driven, 3D-printed fingers, multiple grips
+- 🌾 **Crop Drop Bot** 🟢: autonomous delivery robot
+- 🧩 **Maze Solver** 🟢: IR-sensor maze navigation
+- 🔐 **Certify Secure** 🟢: Python verification system with authentication
+- 💪 **EMG Gesture Control** 🟠: ESP32 muscle-signal gestures driving a servo
 
-**🚚 Autonomous Mobile Robot (AMR)** 
-- Two Rhino IG32 12 V geared DC motors on a Cytron MDD10A 10 A dual driver
-- 12.8 V 30 Ah LiFePO4 power system with a 5 V 10 A DC-DC converter
-- Compute and sensing stack: Raspberry Pi 5, ESP32-S3, D500 sensor, camera and MPU6050
-- Safety chain by design: main fuse → emergency stop → main switch → power distribution
-- Entire build planned within a ₹50,000 budget, around a 30 kg target mass
+<!-- WHEN THE PID REPO IS PUBLIC, uncomment this to show it as a featured card:
+<a href="https://github.com/danielcharles12210-dot/pid-dc-motor-speed-control">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcharles12210-dot&repo=pid-dc-motor-speed-control&theme=transparent&hide_border=true&title_color=FFC857&icon_color=00E5FF&text_color=FFFFFF" />
+</a>
+-->
 
-**🎛️ Closed-Loop DC Motor Speed Control (PID + Encoder)** 
-- Holds a target RPM using encoder feedback and a PID controller adjusting motor-driver PWM
-- Plan: prototype on Arduino Uno, then port to ESP32
-- Python plotting of logged data for response analysis
-- Results will be published only after real testing
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:FFC857" width="100%" />
 
-**🖐️ Prosthetic Hand** 🟢
-- Servo-driven hand with sensors and 3D-printed fingers
-- Multiple grip patterns, as an affordable assistive concept
-
-**🌾 Crop Drop Bot** 🟢
-- Autonomous delivery robot with DC motors and sensor-based navigation
-**💪 EMG Gesture Control** 
-- ESP32-based muscle-signal processing to recognise gestures and drive a servo
-
----
-
-### `04 // TECH STACK`
+### `06 // TECH STACK`
 
 **💻 Languages**
 
@@ -117,61 +120,31 @@ I am a third-year Mechatronics student who builds working hardware instead of on
 <img src="https://skillicons.dev/icons?i=ros" />
 Inverse kinematics (DH parameters) · ISO 10218 robot safety
 
-**🧭 Where I have used these**
-- ⚙️ **Embedded C/C++:** arm firmware, prosthetic hand, Crop Drop Bot, Maze Solver
-- 🔩 **Stepper and DC motor drivers:** TB6600 arm, AMR drivetrain, delivery and maze robots
-- 🔗 **I2C multi-controller design:** dual-ESP32 arm architecture
-- 🎛️ **PID tuning and Q-learning:** line follower
-- 📡 **Sensor integration:** line follower, Maze Solver, prosthetic hand
-- 🐍 **Python:** Certify Secure, line follower control and data plotting
-- 🎨 **Design tools:** AutoCAD, Blender and Canva for mechanical and visual work
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:FFC857" width="100%" />
 
----
+### `07 // EXPERIENCE`
 
-### `05 // EXPERIENCE`
+- 🛠️ **Intern, BTouch Technologies:** 3D-printed prosthetic devices
+- 🏭 **Intern, Tony Engineering:** industrial engineering exposure
+- ⚙️ **Trainee, Kiwi Cottonspin Mill (3 weeks):** plastic injection moulding
 
-- 🛠️ **Intern, BTouch Technologies:** contributed to the design and development of 3D-printed prosthetic devices
-- 🏭 **Intern, Tony Engineering:** hands-on industrial engineering exposure
-- ⚙️ **Industrial Trainee, Kiwi Cottonspin Mill (3 weeks):** plastic injection moulding processes
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:FFC857" width="100%" />
 
----
+### `08 // ACHIEVEMENTS`
 
-### `06 // ACHIEVEMENTS`
+- 🏆 Winner, Clemovate Hackathon
+- 🇮🇳 Participant: Smart India Hackathon 2025, Yugam Drone Hunt, Astranova Safe Sips
+- ☁️ Microsoft Azure AI Fundamentals · IBM, HP and BCG job simulations (Forage)
+- 📄 Research: Water Quality Monitoring System
+- 🗣️ English · Tamil · German (basic) · French (basic)
 
-- 🏆 **Winner, Clemovate Hackathon**
-- 🇮🇳 **Participant, Smart India Hackathon (SIH) 2025**
-- 🚁 **Participant, Yugam Drone Hunt**
-- 🥤 **Participant, Astranova Safe Sips**
-- 🧑‍🤝‍🧑 **Executive Member, TRONEXUS** (Mechatronics Engineering Association, SNS College of Technology)
-- ☁️ **Certified:** Microsoft Azure AI Fundamentals
-- 💼 **Job simulations (Forage):** IBM, HP and BCG
-- 📄 **Research:** Water Quality Monitoring System
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00E5FF,100:FFC857" width="100%" />
 
----
+### `09 // LET'S BUILD`
 
-### `07 // HOW I WORK`
-
-- 🔬 **Hardware first:** I verify power, wiring and motion before I trust any code
-- 🪜 **Incremental:** one subsystem at a time, then integrate
-- 📏 **Evidence over claims:** results are listed only after they are tested
-- 🧾 **Documented:** wiring diagrams, pin maps and READMEs in every repo
-- 🛡️ **Safety-minded:** fuses, emergency stops and travel limits are designed in from the start
-
-
-
-### `09 // LANGUAGES`
-
-- 🗣️ **English** (fluent) · **Tamil** (native) · **German** (basic) · **French** (basic)
-
----
-
-### `10 // LET'S BUILD`
-
-- 💬 Hiring for robotics, embedded or automation? I would like to talk.
+- 💬 Hiring for robotics, embedded or automation? I'd like to talk.
 - 📧 [danielcharles12210@gmail.com](mailto:danielcharles12210@gmail.com)
 - 🔗 [linkedin.com/in/daniel-charlescj](https://www.linkedin.com/in/daniel-charlescj)
-
----
 
 <div align="center">
 
